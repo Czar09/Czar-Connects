@@ -1,4 +1,4 @@
-# [Czar-Connects](czarconnects.co)
+# [Czar-Connects](http://czarconnects.co)
 
 > Social network for developers
 
