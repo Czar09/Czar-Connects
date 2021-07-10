@@ -1,4 +1,4 @@
-# DevConnector 2.0
+# [Czar-Connects](czarconnects.co)
 
 > Social network for developers
 
